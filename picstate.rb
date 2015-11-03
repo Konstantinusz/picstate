@@ -1,6 +1,5 @@
 #!/usr/bin/ruby
 
-require "pry"
 require "tempfile"
 require "optparse"
 
